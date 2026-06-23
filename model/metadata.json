@@ -1,0 +1,29 @@
+{
+    "best_model_name": "Gradient Boosting",
+    "best_r2": 0.9653,
+    "features": [
+        "Present_Price",
+        "Driven_kms",
+        "Car_Age",
+        "Fuel_Type_enc",
+        "Selling_type_enc",
+        "Transmission_enc",
+        "Owner"
+    ],
+    "fuel_classes": [
+        "Petrol",
+        "Diesel",
+        "CNG"
+    ],
+    "selling_classes": [
+        "Dealer",
+        "Individual"
+    ],
+    "transmission_classes": [
+        "Manual",
+        "Automatic"
+    ],
+    "total_cars": 301,
+    "year_min": 2003,
+    "year_max": 2018
+}
